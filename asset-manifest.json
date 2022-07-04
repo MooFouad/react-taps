@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-taps/static/css/main.c9a6ec19.css",
+    "main.js": "/react-taps/static/js/main.caa42de2.js",
+    "static/js/787.c200b765.chunk.js": "/react-taps/static/js/787.c200b765.chunk.js",
+    "index.html": "/react-taps/index.html",
+    "main.c9a6ec19.css.map": "/react-taps/static/css/main.c9a6ec19.css.map",
+    "main.caa42de2.js.map": "/react-taps/static/js/main.caa42de2.js.map",
+    "787.c200b765.chunk.js.map": "/react-taps/static/js/787.c200b765.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c9a6ec19.css",
+    "static/js/main.caa42de2.js"
+  ]
+}
